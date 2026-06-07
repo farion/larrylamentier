@@ -105,9 +105,9 @@ die Sehnsucht nach Waffeln wiegt tonnenschwer,
 kein Kiosk in Sicht, nur kosmischer Staub,
      F                     G
 für Funkspruchbefehle ist Larry jetzt taub,
-     C                          e
+     F
 er träumt von der Sahne, die im All nicht fliesst,
- F                            G
+ G
 bis er mit der Kapsel in die Sonne schiesst.
 
 # Chorus
