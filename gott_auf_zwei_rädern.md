@@ -1,3 +1,4 @@
+# Gott auf zwei Rädern
 
 ```
 2x C F G G
@@ -27,7 +28,7 @@ Oh, es ist einsam an der Spitze, wenn die Wade richtig brennt,
 bin der König der Strasse,  hab die Ausfahrt verpennt,
      C                            F 
 Der Wind weht von vorne, mein Espresso war zu kalt,
-             G                         C               C
+             G                         G               C
 Ich bin ein Gott auf zwei Rädern, nur leider werd’ ich alt. 
           C                              F
 Ja, der Stolz tritt die Kette, doch die Puste wird knapp,
@@ -92,7 +93,7 @@ Oh, es ist einsam an der Spitze, wenn die Wade richtig brennt,
 bin der König der Strasse,  hab die Ausfahrt verpennt,
      C                            F 
 Der Wind weht von vorne, mein Espresso war zu kalt,
-             G                         C               C
+             G                         G               C
 Ich bin ein Gott auf zwei Rädern, nur leider werd’ ich alt. 
           C                              F
 Ja, der Stolz tritt die Kette, doch die Puste wird knapp,
