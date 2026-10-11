@@ -17,7 +17,7 @@ Mich warf so schnell nichts aus der Bahn,
 Ich trug die Brust wie ein Fasan.
                                 A
 Doch plötzlich sitzt du an der Bar,
-                            F#
+                            F#m
 Und leider war mir sofort klar,
                                   D
 Ich werd' des Lebens nicht mehr froh,
@@ -25,11 +25,11 @@ Ich werd' des Lebens nicht mehr froh,
 Ohne dich und dein Niveau.
 
 # Pre-Chorus
-               F#                D
+               F#m               D
 Ein falscher Blick, ein freches Wort,
           A                E
 Und mein ganzer Stolz ist fort.
-              F#             D
+              F#m            D
 Vernunft und Logik sind blockiert,
                A          E
 Weil hier die Königin regiert!
@@ -37,7 +37,7 @@ Weil hier die Königin regiert!
 ​# Chorus
    A 
 Renate! Verdammt, du machst mich schwach!
-   F#
+   F#m
 Renate! du legst mich einfach flach,
    D
 Renate! Du kennst keine Gnade
@@ -45,7 +45,7 @@ Renate! Du kennst keine Gnade
 machst mich fertig, oh Renate!
    A 
 Renate! Verdammt, du machst mich weich!
-   F#
+   F#m
 Renate! du bist an Schönheit reich,
    D
 Renate! ich tu was ich kann
@@ -55,7 +55,7 @@ Bei dir werde ich zum echten Mann.
 # Verse 2
                                     A
 Ich hab ein Kreuz fast wie ein Bär,
-                                F#
+                                F#m
 Mich umzuhauen, das ist schwer.
                               D
 Ich fahr den lautesten Motor,
@@ -63,7 +63,7 @@ Ich fahr den lautesten Motor,
 Und komm mir unbesiegbar vor.
                                    A
 Jetzt knie ich schwitzend vor dir hin,
-                              F#
+                              F#m
 Und hab nur eins in Kopf und Sinn,
                                 D
 Wie krieg ich dich zu mir nach Haus,
@@ -71,11 +71,11 @@ Wie krieg ich dich zu mir nach Haus,
 und wer macht das Licht dann aus,
 
 # Pre-Chorus
-              F#               D
+              F#m              D
 Du nimmst dir einfach, was du willst,
              A                  E
 Und wenn du deinen Durst dann stillst,
-                F#             D
+                F#m            D
 Dann guckst du mich so dreckig an,
           A                E
 Dass ich nicht mehr gehen kann!
@@ -83,7 +83,7 @@ Dass ich nicht mehr gehen kann!
 # Chorus
    A 
 Renate! Verdammt, du machst mich schwach!
-   F#
+   F#m
 Renate! du legst mich einfach flach,
    D
 Renate! Du kennst keine Gnade
@@ -91,7 +91,7 @@ Renate! Du kennst keine Gnade
 machst mich fertig, oh Renate!
    A 
 Renate! Verdammt, du machst mich weich!
-   F#
+   F#m
 Renate! du bist an Schönheit reich,
    D
 Renate! ich tu was ich kann
@@ -100,19 +100,19 @@ Bei dir werde ich zum echten Mann.
 
 # Solo
 
-A F# D E
-A F# D E
+A F#m D E
+A F#m D E
 
 # Bridge
          A                 
 Mit den Waffen einer Frau,
-              F#                    
+              F#m                    
 ich bin kein Dackel und kein Pfau,
                 D 
 du packst mich lässt nicht mehr los,
            E
 ich sinke sanft in deinen Schoss,
-           F#               D
+           F#m              D
 Du hast gewonnen, Spiel vorbei –
                 A              E
 Jetzt sind wir beide endlich frei!
@@ -120,7 +120,7 @@ Jetzt sind wir beide endlich frei!
 # Chorus
    A 
 Renate! Verdammt, du machst mich schwach!
-   F#
+   F#m
 Renate! du legst mich einfach flach,
    D
 Renate! Du kennst keine Gnade
@@ -128,7 +128,7 @@ Renate! Du kennst keine Gnade
 machst mich fertig, oh Renate!
    A 
 Renate! Verdammt, du machst mich weich!
-   F#
+   F#m
 Renate! du bist an Schönheit reich,
    D
 Renate! ich tu was ich kann
@@ -137,7 +137,7 @@ Bei dir werde ich zum echten Mann.
 
    A 
 Renate! Verdammt, du machst mich schwach!
-   F#
+   F#m
 Renate! du legst mich einfach flach,
    D
 Renate! Du kennst keine Gnade
@@ -145,7 +145,7 @@ Renate! Du kennst keine Gnade
 machst mich fertig, oh Renate!
    A 
 Renate! Verdammt, du machst mich weich!
-   F#
+   F#m
 Renate! du bist an Schönheit reich,
    D
 Renate! ich tu was ich kann
